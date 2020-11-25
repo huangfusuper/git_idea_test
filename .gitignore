@@ -1,0 +1,6 @@
+/git_idea_test.iml
+*.class
+/target
+*.iml
+*.idea
+/.idea
