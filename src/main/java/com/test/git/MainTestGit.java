@@ -10,5 +10,9 @@ public class MainTestGit {
         System.out.println("new Git");
         System.out.println("new Git");
         System.out.println("new Git");
+        System.out.println("mian");
+        System.out.println("mian");
+        System.out.println("mian");
+        System.out.println("mian");
     }
 }

@@ -7,5 +7,9 @@ public class MainTestGit2 {
         System.out.println("new Gi2222t");
         System.out.println("new Gi2222t");
         System.out.println("new Gi2222t");
+        System.out.println("mian");
+        System.out.println("mian");
+        System.out.println("mian");
+        System.out.println("mian");
     }
 }
