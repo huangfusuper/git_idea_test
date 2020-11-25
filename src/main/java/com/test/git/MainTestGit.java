@@ -1,6 +1,6 @@
 package com.test.git;
 
-public class TestGit {
+public class MainTestGit {
     public static void main(String[] args) {
         System.out.println("new Git");
     }
